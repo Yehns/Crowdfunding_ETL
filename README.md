@@ -9,4 +9,4 @@ Each new DataFrame is saved to the git clone, and data is cleaned through the dr
 -	Category_id
 -	Subcategory_id
 
-Each new table can then be linked using a foreign key, allowing unique tables to be constructed. 
+Each new table can then be linked using a foreign key to referencing each primary key, allowing unique tables to be constructed. 
